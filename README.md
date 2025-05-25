@@ -367,3 +367,5 @@ To run the tests locally,
 3. Execute the test script using the [PHPUnit](http://phpunit.de/).
 
 > You should be using a sandboxed application for running the tests.
+
+<!-- GitAds-Verify: 4M4N7J3KYB9DX1AT8Q98D8FVULELZ2JU -->
