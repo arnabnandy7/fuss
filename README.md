@@ -368,4 +368,6 @@ To run the tests locally,
 
 > You should be using a sandboxed application for running the tests.
 
-<!-- GitAds-Verify: 4M4N7J3KYB9DX1AT8Q98D8FVULELZ2JU -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/fuss@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/fuss@github)
+
